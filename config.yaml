@@ -1,6 +1,6 @@
 ---
 title: "testdriven"
-baseURL: "https://testdriven-com.github.io/"
+baseURL: "https://testdriven.com"
 theme: "zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
